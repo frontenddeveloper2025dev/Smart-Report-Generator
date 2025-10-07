@@ -1,3 +1,7 @@
+
+# Visualización
+https://youtu.be/qNka6kqMOTI?si=av_pIs_rDDrO_6Ww
+
 Smart Reports Generator
 Tech Stack
 
