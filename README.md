@@ -1,6 +1,6 @@
 
 # Visualización
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNka6kqMOTI?si=av_pIs_rDDrO_6Ww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/qNka6kqMOTI?si=bLHxeuuk_ypP-MC2
 
 Smart Reports Generator
 Tech Stack
